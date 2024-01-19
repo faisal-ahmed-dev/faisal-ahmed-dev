@@ -1,6 +1,5 @@
  
 <img   src="https://github.com/princefaisalbubt/rdp/blob/main/ezgif.com-crop.gif" alt="">
-<img width="2000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="">
 <h1 align="center">Hi , I'm Faisal Ahmed</h1>
 <h3 align="center">Skilled and motivated Software Engineer in designing, developing, and implementing software solutions. Seeking a challenging position in a dynamic organization where I can utilize my technical expertise and problem-solving skills to contribute to the success of the company.</h3>
  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="">
