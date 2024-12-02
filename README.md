@@ -10,7 +10,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalksabd&label=Profile%20views&color=0e75b6&style=flat" alt="faisalksabd" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m **Mern Stack** Developer
 
 - 📫 How to reach me **faisalksabd999@gmail.com**
 
