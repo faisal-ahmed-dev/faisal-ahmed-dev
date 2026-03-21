@@ -12,8 +12,8 @@
 <h3 align="left">👨‍💻 Full-Stack Engineer | NestJS & Next.js Expert</h3>
 
 - 🔭 Currently working at **3S Software Solution Service** (Dec 2024 – Present)  
-- 🌱 Specialized in **NestJS, Next.js 15, TypeScript, PostgreSQL, Docker, DDD & Clean Architecture**  
-- 💼 Built enterprise SaaS: Feedback Form Builder, GenPOS (multi-tenant POS), Restaurant Management System  
+- 🌱 Specialized in **NestJS, Next.js , TypeScript,Javascript, PostgreSQL, Docker**  
+- 💼 Built enterprise SaaS: Feedback Form Builder, Orderly Web (multi-tenant POS), QR Based E-menu,Restaurant Management System  
 - 🛒 Previously at **dHealth International** – Full e-commerce platform with advanced features,track prescriptions, courier intregation , POS, real-time features (Socket.IO), Redis caching, Bkash payment gateaway intregation  
 - 📫 Reach me: **faisalksabd999@gmail.com**  
 - ⚡ Competitive Programming: ICPC Asia Dhaka Regional, BUBT Intra Top-10  
@@ -32,9 +32,7 @@
 
 <h3 align="left">🛠 Tech Stack & Tools</h3>
 
-[![Expertise](https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,express,postgres,redis,docker,git,github,postman,tailwind,bootstrap,redux)](https://skillicons.dev)
-
-[![Comfortable](https://skillicons.dev/icons?i=html,css,c,cpp,php,jquery,figma,vscode)](https://skillicons.dev)
+[![Expertise](https://skillicons.dev/icons?i=aws,azure,js,ts,react,nextjs,nestjs,nodejs,express,prisma,sequelize,postgres,nginx,mysql,mongodb,redis,docker,git,github,postman,tailwind,bootstrap,redux,vite)](https://skillicons.dev)
 
 <br/>
 
